@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sukrutgangurde" target="blank"><img src="https://img.shields.io/twitter/follow/sukrutgangurde?logo=twitter&style=for-the-badge" alt="sukrutgangurde" /></a> </p>
 
-- 🔭 I’m currently studing [MCA in KKWagh](Nashik)
+- 🔭 I’m currently studing [MCA in KKWagh,Nashik](Nashik)
 
 - 🌱 I’m currently learning **MongoDb and Python**
 
