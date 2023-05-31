@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sukrut Gangurde</h1>
-<h3 align="center">I'm a passionate web developer constantly seeking new knowledge and challenges .I thrive on acquiring new skills and adapt new technologies.</h3>
+<h2><b>About me:</b></h2><br>
+<h4 align="left">I'm a passionate web developer constantly seeking new knowledge and challenges. I thrive on acquiring new skills and adapt new technologies.</h4>
 <img align="right" alt="coding" width="400" src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukrutgangurde&label=Profile%20views&color=0e75b6&style=flat" alt="sukrutgangurde" /> </p>
