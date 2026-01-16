@@ -92,17 +92,13 @@ src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif
 
 ## 📈 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sukrutgangurde&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sukrutgangurde&theme=tokyonight"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukrutgangurde&show_icons=true&theme=tokyonight)
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sukrutgangurde&layout=compact&theme=tokyonight"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sukrutgangurde&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukrutgangurde&layout=compact&theme=tokyonight)
+
 
 ---
 
