@@ -104,9 +104,6 @@ src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif
 
 
 
-
----
-
 ## 🤝 Connect With Me
 
 <p>
