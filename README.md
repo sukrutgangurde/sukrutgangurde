@@ -102,12 +102,6 @@ src="https://ik.imagekit.io/dresma/Dresma_Library/manager-openings_NW3bXTTFP.gif
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sukrutgangurde&theme=tokyonight)
-
-
-
-
 
 
 
